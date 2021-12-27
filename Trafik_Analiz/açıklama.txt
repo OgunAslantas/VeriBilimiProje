@@ -1,0 +1,4 @@
+
+Proje hazırlanırken kaggle bulunan örnek kodlar incelenmiş ve 
+https://www.kaggle.com/yusufbaykal/uk-traffic-analysis-visualization
+projesi dikkate alınarak hazırlanmıştır.
